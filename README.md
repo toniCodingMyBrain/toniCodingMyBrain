@@ -20,6 +20,7 @@
 
 <section id="socials">
 <h2>📲 Encontre-me fácilmente no: </h2>
+  
 [![LikedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-crisostomo)
 </section>
 
