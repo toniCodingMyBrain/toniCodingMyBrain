@@ -3,9 +3,9 @@
 </header>
 <main style="margin: 0 auto; max-width: 550px; width: 100%">
 <section id="presents">
-<h2>Estudante de Desenvolvimento de Software Fullstack Java☕ <span style="font-weight: normal; font-size: 12px; opacity: .7">vai um cafézinho ai 😉?!</span></h2>
+<h2>Estudante de Desenvolvimento de Software Java☕ <span style="font-weight: normal; font-size: 12px; opacity: .7">vai um cafézinho ai 😉?!</span></h2>
 <p>
-🧠 Estudando Stacks de back-end focando em Java. Já possuo conhecimentos de SQL tanto em Postgres quanto MySQL. 
+🧠 Estudando focado no backend com Java, usando meus conhecimentos de SQL em Postgresql e MySql. Além disso, também me aplico em desenvolvimento frontend com as tecnologias mais utilizadas pelo mercado, acredito que conhecimentos em frontend também ajudam ao desenvolvedor do backend.
 </p>
 </section>
 
@@ -15,7 +15,8 @@
 🤝 Pra começar pode me chamar de Tom.</br>
 <hr/> 
 👨🏼‍💻 Iniciei meus estudos na tecnologia com o curso de Fullstack Java pela <a href="https://ebaconline.com.br/">EBAC</a>.</br>
-🤞🏻 Busco minha primeira oportunidade com tecnologia. Sou profissional de perfil motivado e esforçado.</p>
+🤞🏻 Busco minha primeira oportunidade com tecnologia. Sou uma pessoa que gosta de pesquisar sobre assuntos novos e desenvolver um pouco mais daquilo que for passado em uma aula. 
+</p>
 </section>
 
 <section id="socials">
