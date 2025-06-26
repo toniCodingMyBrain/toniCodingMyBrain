@@ -52,4 +52,6 @@
 <section id="stats" style="border: 2px solid grey; border-radius: 10px; padding: 0 10px;">
 
 <h3>📈 Meus Parâmetros no GitHub</h3>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toniCodingMyBrain&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toniCodingMyBrain&layout=compact)
 </hr>
