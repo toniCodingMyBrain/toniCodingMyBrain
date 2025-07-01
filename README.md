@@ -20,16 +20,15 @@ Além da programação, trago comigo mais de 13 anos de experiência em resoluç
 - 🛠️ **Java + Spring Boot**
 - 🗃️ **JPA, Hibernate, APIs REST**
 - 🔄 **Versionamento com Git/GitHub**
-- 🎨 **React.js + Redux.js**
+- 🎨 **React.js (Html5, Css, Javascript e Typescript, frameworks como styled-components e tailwind) + Redux.js**
 - 🧪 **Testes e boas práticas**
-- 🌐 **Deploy com Vercel e Netlify**
+- 🌐 **Deploy com Vercel**
 
 ---
 
 ## 📫 Como falar comigo:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/antonio-crisostomo)
-- 🌍 [Portfólio](https://meu-1-portfolio.vercel.app)
 - 📬 antonio.luisz@outlook.com
 
 ---
