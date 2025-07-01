@@ -1,23 +1,44 @@
-<header>
-  <h1>Olá, eu sou o Antonio 👋🏻</h1>
-</header>
-<main style="margin: 0 auto; max-width: 550px; width: 100%">
-<section id="presents">
-<h2>Estudante de Desenvolvimento de Software Java☕ <span style="font-weight: normal; font-size: 12px; opacity: .7">vai um cafézinho ai 😉?!</span></h2>
-<p>
-🧠 Estudando focado no backend com Java, usando meus conhecimentos de SQL em Postgresql e MySql. Além disso, também me aplico em desenvolvimento frontend com as tecnologias mais utilizadas pelo mercado, acredito que conhecimentos em frontend também ajudam ao desenvolvedor do backend.
-</p>
-</section>
+# 👋 Olá, eu sou o Antonio — mas pode me chamar de Tom!
 
-<section id="about">
-<h2>🗺️Sobre mim:</h2>
-<p style="font-weight: normal; margin-left: 20px;">
-🤝 Pra começar pode me chamar de Tom.</br>
-<hr/> 
-👨🏼‍💻 Iniciei meus estudos na tecnologia com o curso de Fullstack Java pela <a href="https://ebaconline.com.br/">EBAC</a>.</br>
-🤞🏻 Busco minha primeira oportunidade com tecnologia. Sou uma pessoa que gosta de pesquisar sobre assuntos novos e desenvolver um pouco mais daquilo que for passado em uma aula. 
-</p>
-</section>
+🎯 Desenvolvedor em formação com foco em **Back-End Java**  
+☕ Apaixonado por tecnologia, código limpo e, claro, um bom cafezinho
+
+---
+
+## 🚀 Sobre Mim
+
+Sou estudante de Desenvolvimento de Software com foco no ecossistema **Java**, utilizando **Spring Boot** e bancos de dados relacionais como **PostgreSQL** e **MySQL**. Também tenho estudado **Front-End com React e Redux**, pois acredito que um bom desenvolvedor back-end deve compreender toda a jornada da aplicação.
+
+Atualmente estou completando minha formação do curso **Fullstack Java pela EBAC**.
+
+Além da programação, trago comigo mais de 13 anos de experiência em resolução de problemas complexos na minha antiga área que envolvia muita técnica — um histórico que fortalece minha lógica, análise e persistência.
+
+---
+
+## 💡 O que estou aprendendo no momento:
+
+- 🛠️ **Java + Spring Boot**
+- 🗃️ **JPA, Hibernate, APIs REST**
+- 🔄 **Versionamento com Git/GitHub**
+- 🎨 **React.js + Redux.js**
+- 🧪 **Testes e boas práticas**
+- 🌐 **Deploy com Vercel e Netlify**
+
+---
+
+## 📫 Como falar comigo:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/antonio-crisostomo)
+- 🌍 [Portfólio](https://meu-1-portfolio.vercel.app)
+- 📬 antonio.luisz@outlook.com
+
+---
+
+🧠 Curioso por natureza, resiliente por trajetória e apaixonado por transformar ideias em soluções.  
+🔍 Estou em busca da **minha primeira oportunidade na área de tecnologia**, onde possa somar, aprender e evoluir junto com um time.
+
+Vamos conversar?
+
 
 <section id="socials">
 <h2>📲 Encontre-me fácilmente no: </h2>
